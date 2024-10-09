@@ -23,7 +23,7 @@ Program to implement the SVM For Spam Mail Detection..
 Developed by: swathi.s
 RegisterNumber:  212223040219
 */
-
+````
 ```
 import chardet
 file='spam.csv'
